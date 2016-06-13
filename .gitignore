@@ -1,0 +1,6 @@
+# Exclude files & folders
+.vagrant
+.git
+geecredentials.txt
+.DS_Store
+google_appengine*
