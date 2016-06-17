@@ -3,4 +3,8 @@
 .git
 geecredentials.txt
 .DS_Store
+
+#exclude directories
 google_appengine*
+
+
